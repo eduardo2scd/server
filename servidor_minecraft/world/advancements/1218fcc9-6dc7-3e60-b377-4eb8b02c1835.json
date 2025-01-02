@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
@@ -545,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -572,6 +590,12 @@
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2025-01-02 20:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -641,6 +665,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2025-01-02 22:09:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -671,6 +701,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -680,6 +716,12 @@
   "smallships:recipes/lotr_lairelosse_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 22:09:30 +0000"
     },
     "done": true
   },
@@ -710,6 +752,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-02 20:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 21:50:04 +0000"
     },
     "done": true
   },
@@ -851,9 +899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -985,14 +1045,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-01-02 22:01:07 +0000",
       "minecraft:mountains": "2025-01-02 21:33:10 +0000",
       "minecraft:taiga": "2025-01-02 20:59:59 +0000",
       "minecraft:desert_hills": "2025-01-02 21:10:03 +0000",
       "minecraft:taiga_hills": "2025-01-02 21:38:09 +0000",
       "minecraft:desert": "2025-01-02 20:58:21 +0000",
+      "minecraft:jungle": "2025-01-02 22:01:08 +0000",
       "minecraft:beach": "2025-01-02 20:53:42 +0000",
       "minecraft:river": "2025-01-02 20:58:59 +0000",
-      "minecraft:lukewarm_ocean": "2025-01-02 21:15:34 +0000"
+      "minecraft:lukewarm_ocean": "2025-01-02 21:15:34 +0000",
+      "minecraft:savanna": "2025-01-02 22:05:09 +0000"
     },
     "done": false
   },
@@ -1164,6 +1227,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1179,6 +1248,18 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-02 21:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-02 21:54:08 +0000"
     },
     "done": true
   },
@@ -1212,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-02 21:59:45 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_cherry_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1242,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1251,6 +1344,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:04 +0000"
     },
     "done": true
   },
@@ -1326,6 +1425,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1340,7 +1445,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rabbit": "2025-01-02 21:28:26 +0000"
+      "rabbit": "2025-01-02 21:28:26 +0000",
+      "bread": "2025-01-02 22:04:14 +0000"
     },
     "done": false
   },
@@ -1428,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
@@ -1437,6 +1549,12 @@
   "smallships:recipes/bop_hellbark_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -1506,9 +1624,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-01-02 22:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-02 21:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-02 21:54:19 +0000"
     },
     "done": true
   },
@@ -1752,6 +1888,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1866,6 +2008,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-02 22:04:45 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_umbran_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1875,6 +2023,12 @@
   "smallships:recipes/bop_willow_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -2052,6 +2206,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
+    "criteria": {
+      "has_item": "2025-01-02 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2079,6 +2245,12 @@
   "smallships:recipes/bop_redwood_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -2112,6 +2284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 21:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-02 21:01:53 +0000"
@@ -2136,9 +2314,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-02 22:09:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_beech_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -2214,6 +2404,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2229,6 +2425,12 @@
   "smallships:recipes/lotr_green_oak_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:50:26 +0000"
     },
     "done": true
   },
@@ -2349,6 +2551,12 @@
   "smallships:recipes/acacia_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 22:09:30 +0000"
     },
     "done": true
   },
