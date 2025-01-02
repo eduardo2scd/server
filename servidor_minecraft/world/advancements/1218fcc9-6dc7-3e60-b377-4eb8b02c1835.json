@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -416,6 +422,12 @@
   "smallships:recipes/bop_mahogany_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
     },
     "done": true
   },
@@ -638,6 +650,18 @@
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_item": "2025-01-02 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 21:35:16 +0000"
     },
     "done": true
   },
@@ -961,8 +985,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-01-02 21:33:10 +0000",
       "minecraft:taiga": "2025-01-02 20:59:59 +0000",
       "minecraft:desert_hills": "2025-01-02 21:10:03 +0000",
+      "minecraft:taiga_hills": "2025-01-02 21:38:09 +0000",
       "minecraft:desert": "2025-01-02 20:58:21 +0000",
       "minecraft:beach": "2025-01-02 20:53:42 +0000",
       "minecraft:river": "2025-01-02 20:58:59 +0000",
@@ -1108,6 +1134,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
@@ -1147,6 +1185,12 @@
   "smallships:recipes/bop_cherry_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
     },
     "done": true
   },
@@ -1480,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-02 20:59:17 +0000"
@@ -1525,6 +1575,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
     },
     "done": true
   },
@@ -1876,9 +1932,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-02 21:33:48 +0000"
     },
     "done": true
   },
@@ -2128,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2197,6 +2271,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-01-02 21:37:00 +0000"
     },
     "done": true
   },

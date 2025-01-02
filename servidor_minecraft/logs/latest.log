@@ -2383,3 +2383,121 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Jan2025 21:30:27.254] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
 [02Jan2025 21:31:22.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
 [02Jan2025 21:32:43.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Stone Age]
+[02Jan2025 21:33:22.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Getting an Upgrade]
+[02Jan2025 21:37:45.163] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[02Jan2025 21:39:11.203] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-288, y=67, z=944}
+[02Jan2025 21:39:11.204] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=-275, y=73, z=921}
+[02Jan2025 21:39:11.220] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=84, z=941}
+[02Jan2025 21:39:11.221] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=-266, y=73, z=922}
+[02Jan2025 21:39:11.233] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=95, z=941}
+[02Jan2025 21:39:11.233] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=-278, y=88, z=924}
+[02Jan2025 21:39:11.233] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=-261, y=85, z=919}
+[02Jan2025 21:39:11.234] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=106, z=941}
+[02Jan2025 21:39:11.234] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=-281, y=96, z=928}
+[02Jan2025 21:39:11.234] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=-264, y=96, z=927}
+[02Jan2025 21:39:11.235] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=-261, y=107, z=926}
+[02Jan2025 21:39:11.242] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=117, z=941}
+[02Jan2025 21:39:11.242] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=-278, y=107, z=927}
+[02Jan2025 21:39:11.242] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=128, z=941}
+[02Jan2025 21:39:11.242] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-264, y=118, z=923}
+[02Jan2025 21:39:11.243] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-264, y=121, z=930}
+[02Jan2025 21:39:11.243] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=-281, y=118, z=935}
+[02Jan2025 21:39:11.243] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-261, y=129, z=926}
+[02Jan2025 21:39:11.244] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-278, y=129, z=927}
+[02Jan2025 21:39:11.244] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=-273, y=129, z=916}
+[02Jan2025 21:39:11.244] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-285, y=139, z=941}
+[02Jan2025 21:39:11.245] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=-286, y=150, z=942}
+[02Jan2025 21:39:11.245] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-281, y=140, z=928}
+[02Jan2025 21:39:11.245] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-264, y=140, z=927}
+[02Jan2025 21:39:11.246] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=-269, y=140, z=938}
+[02Jan2025 21:39:11.246] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-278, y=151, z=931}
+[02Jan2025 21:39:11.246] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-261, y=151, z=919}
+[02Jan2025 21:39:11.246] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-278, y=154, z=924}
+[02Jan2025 21:39:11.247] [Worker-Main-23/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=-277, y=155, z=931}
+[02Jan2025 21:39:12.941] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/starts/3x3_tnt is being run through DFU (hash 75eae45b541088ebfd0de51041d2aaca83fdf39a973f2b8e9c4e30df6eea9fce), this will cause launch time delays
+[02Jan2025 21:39:13.619] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_tnt is being run through DFU (hash 59b2b3e64be9ba49f87d99ad705fde90ed2f76654bc06a07567753ae42368c92), this will cause launch time delays
+[02Jan2025 21:39:13.695] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_plain is being run through DFU (hash 93088279ce5db7d69f0431aa748b25462f9967247c084fe0b7842410841f2101), this will cause launch time delays
+[02Jan2025 21:39:13.752] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_bush is being run through DFU (hash c820264f623748ef28e80869942580744af6b8f55b3ae37343b1f24e94da90d2), this will cause launch time delays
+[02Jan2025 21:39:13.762] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/misc/endpoint is being run through DFU (hash d586244ea29fcfe8af449b854b356c92ea2cae2a58d8e607b45fb369f7fd0408), this will cause launch time delays
+[02Jan2025 21:39:13.766] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_library is being run through DFU (hash b16b08d9080ddeffaf1aef315fa044b5b1568071da218e1a29cdff2d7b046d29), this will cause launch time delays
+[02Jan2025 21:39:13.822] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/right_plain is being run through DFU (hash 8cdc8781b4e9cd01a073c0d3f18318abd57f6b19af1984f964edef89304acd61), this will cause launch time delays
+[02Jan2025 21:39:13.832] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_silverfish is being run through DFU (hash 8ebca551c2947b0bd21d7f1e6d53dc3f074107e22283e69122b9d58c9698d11c), this will cause launch time delays
+[02Jan2025 21:39:13.896] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_fountain is being run through DFU (hash c4a42d1de104937f4ee47a736b22613920b9d5dd438a7fe9d073d59bcb81d692), this will cause launch time delays
+[02Jan2025 21:39:13.906] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/right_cobweb is being run through DFU (hash e79437b0bad7ed218c8fc69ddd974b5c45f502dee5be22215df77a80fc4b0ce5), this will cause launch time delays
+[02Jan2025 21:39:13.918] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/left_cobweb is being run through DFU (hash 629a410d0134619730c842951433fdc3730a7d5361b1972e24e30dedf64e67cf), this will cause launch time delays
+[02Jan2025 21:39:13.926] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_plain is being run through DFU (hash 36dbf4d9d1bddf154d0f9c28e9e5eb0e15f14a41672cabb1817511c234f82c08), this will cause launch time delays
+[02Jan2025 21:39:13.997] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_intersection is being run through DFU (hash 07a33af9e25010569f6a95c6f42803cdfa93141766e7ca08962470044cf11983), this will cause launch time delays
+[02Jan2025 21:39:14.038] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_plain is being run through DFU (hash 6fb486219dc1a976f70cef774828c282f17628e3dc6ed3f795fee067ecb624ba), this will cause launch time delays
+[02Jan2025 21:39:14.077] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_plain is being run through DFU (hash abc5a7b79ada64e23463ecf7dcb9db51d327de4cf208da51573f0c4325947311), this will cause launch time delays
+[02Jan2025 21:39:14.182] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/left_plain is being run through DFU (hash 7b00261c7d0b0cdd2ca5a47428cec7414c383ca4b7c2be36c21bf9a87eaa9301), this will cause launch time delays
+[02Jan2025 21:39:14.189] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/t_cobweb is being run through DFU (hash f273b7a5b1585f61f00c670a01d7f5e5f388c144cfb4db8c45f52a6a1779e53e), this will cause launch time delays
+[02Jan2025 21:39:14.200] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_redstone is being run through DFU (hash fea4e7c1f5aff9529cc4dd49f5cfbdd796dfdec59b29d46f89f7f885d225c53e), this will cause launch time delays
+[02Jan2025 21:39:14.228] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_trapped is being run through DFU (hash a154ba092ce69789d8bb8ddf2c0a6fd235093148648967a6835be921fc72dcf6), this will cause launch time delays
+[02Jan2025 21:39:14.492] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_base is being run through DFU (hash 9d7722bfee236eeedcb8c1ea03990d58ad396e2b73247c4c8844ae07f8acc208), this will cause launch time delays
+[02Jan2025 21:39:14.511] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/t_plain is being run through DFU (hash 3dbcaf749db187be64d47e38b30e4d5ea8d0e121dc4b17be3a037c2e8e1651a0), this will cause launch time delays
+[02Jan2025 21:39:14.519] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_plain is being run through DFU (hash f18a2830c45244343a977cbf10dc77a7f7a73360900178d0086110505a92d55c), this will cause launch time delays
+[02Jan2025 21:39:14.529] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_parkour is being run through DFU (hash 2a59e98160ab8a2fcbe8791a1282d363ec2218d10cb8b285696b0b68565852ee), this will cause launch time delays
+[02Jan2025 21:39:14.546] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_ruined is being run through DFU (hash f4e384d63ede3d7942a2fde51da59deca4988a7c995315f67087464033262b2d), this will cause launch time delays
+[02Jan2025 21:39:14.579] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_cobweb is being run through DFU (hash 21dfaf836cf05a19da8995c19c893e9c9a5fe441ecddbc3360727693ff8c1efb), this will cause launch time delays
+[02Jan2025 21:39:14.583] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_room is being run through DFU (hash 7afe5aaaf1ca7db5815ced05f4cf415f992c194707d422536088a9377ba59c19), this will cause launch time delays
+[02Jan2025 21:39:14.597] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_bridge is being run through DFU (hash 5c31ab2ed43db01e225c5cfd04b0fbb041c06a9ef97965e4370b3794d1a58375), this will cause launch time delays
+[02Jan2025 21:39:14.670] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_plain is being run through DFU (hash fd4a205c5c6df0192e747369ba603559bc77b8c28d45aed9e532ac88406482e9), this will cause launch time delays
+[02Jan2025 21:39:14.737] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_melon is being run through DFU (hash 6bdde57dcab662e2873e7c7ce69d8ed19bd7f18a404e473c41ce11d05330d39f), this will cause launch time delays
+[02Jan2025 21:39:14.748] [Worker-Main-23/WARN] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_plain is being run through DFU (hash 6c11fc3da251197fa6d327f43b6b67f344c86e54be657b99edb372b38c30ff01), this will cause launch time delays
+[02Jan2025 21:39:28.877] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:28.880] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:28.893] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:28.894] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:28.976] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:28.978] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[02Jan2025 21:39:31.316] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:dungeons/jungle_2 is being run through DFU (hash b28ba27e6ff7fb769d846d1dd44a0f1ee413b04fdb9758a7bd3f2c67847f807d), this will cause launch time delays
+[02Jan2025 21:39:31.321] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:dungeons/jungle_1 is being run through DFU (hash cb9a14b60b0b72581f31c7ceb1d600d7e9986908051db794f15d6f80ea7b9da7), this will cause launch time delays
+[02Jan2025 21:39:31.326] [Worker-Main-3/WARN] [ModernFix/]: Structure repurposed_structures:dungeons/jungle_3 is being run through DFU (hash 6fdd93aee344d9af0b0f549bc8f507c8440b837bf70aff24b7b17a7188414691), this will cause launch time delays
+[02Jan2025 21:39:37.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:39:44.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:39:49.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Chompy]
+[02Jan2025 21:39:50.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:39:52.002] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:39:52.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Crocodile - Level: 13
+[02Jan2025 21:39:52.004] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=117, y=65, z=565}
+[02Jan2025 21:39:52.004] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:40:04.910] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:40:04.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 13
+[02Jan2025 21:40:04.912] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=123, y=64, z=575}
+[02Jan2025 21:40:04.912] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:40:06.619] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:40:06.620] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:40:18.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 123.5, 64.5, 575.5]
+[02Jan2025 21:40:20.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:40:35.875] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:40:35.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 13
+[02Jan2025 21:40:35.878] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=135, y=66, z=565}
+[02Jan2025 21:40:35.878] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:40:35.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:40:37.537] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:40:37.537] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:40:40.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:40:46.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:40:59.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Made zZzK1TTY a server operator]
+[02Jan2025 21:40:59.343] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:40:59.343] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:41:01.513] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:41:01.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Crocodile - Level: 7
+[02Jan2025 21:41:01.515] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=124, y=66, z=562}
+[02Jan2025 21:41:01.515] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:41:02.928] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:41:02.928] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:41:16.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 101.5, 115.5, 677.5]
+[02Jan2025 21:41:34.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:41:47.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:42:25.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:42:25.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed fr4nnki]
+[02Jan2025 21:42:34.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed fr4nnki]
+[02Jan2025 21:42:37.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:42:42.565] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:42:42.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki fell out of the world
+[02Jan2025 21:42:42.567] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=101, y=109, z=675}
+[02Jan2025 21:42:42.567] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:42:44.175] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:42:44.176] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:42:46.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
