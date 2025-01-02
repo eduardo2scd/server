@@ -12194,3 +12194,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Jan2025 20:22:28.194] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7f614cea[id=<null>,name=zZzK1TTY,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:44006) lost connection: Took too long to log in
 [02Jan2025 20:24:05.853] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [02Jan2025 20:24:05.879] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 20:29:05.847] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:29:05.861] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 20:34:05.847] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:34:05.861] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
