@@ -14811,3 +14811,536 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Jan2025 21:42:44.175] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [02Jan2025 21:42:44.176] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [02Jan2025 21:42:46.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:43:16.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/22910, l='ServerLevel[world]', x=106.33, y=104.06, z=676.88]
+[02Jan2025 21:43:16.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/22910, l='ServerLevel[world]', x=106.33, y=104.06, z=676.88]
+[02Jan2025 21:43:17.559] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:43:17.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:43:17.559] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:43:31.832] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:43:31.848] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 21:43:32.516] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:43:32.516] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:43:32.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was blown up by Creeper - Level: 15
+[02Jan2025 21:43:32.517] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:43:32.517] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:43:32.517] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:43:32.518] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:43:32.518] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=104, y=96, z=673}
+[02Jan2025 21:43:32.518] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=104, y=96, z=673}
+[02Jan2025 21:43:32.518] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:43:32.518] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:43:32.518] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:43:34.195] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:43:34.195] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:43:50.377] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:43:50.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:43:50.378] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:44:05.332] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:44:05.333] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:44:05.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was fireballed by Spitfire Skeleton - Level: 5
+[02Jan2025 21:44:05.333] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:44:05.333] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:44:05.334] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:44:05.334] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:44:05.334] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-125, y=68, z=188}
+[02Jan2025 21:44:05.334] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-125, y=68, z=188}
+[02Jan2025 21:44:05.334] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:44:05.334] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:44:05.334] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:44:11.992] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:44:11.992] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:44:21.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 113.5, 69.5, 516.5]
+[02Jan2025 21:44:24.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:44:43.440] [Worker-Main-44/DEBUG] [betterdungeons/]: Small Dungeon at 481 24 679
+[02Jan2025 21:44:45.091] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:44:45.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:44:45.091] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:44:50.081] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barako_throne is being run through DFU (hash 5060b47cd573a6a8d5c0d51033162f3e97c822c4c1964511ab8cbcdeab59ad46), this will cause launch time delays
+[02Jan2025 21:44:50.097] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house is being run through DFU (hash 7bdc9a503d818d60f6cb11498be221879e43f4929b6107d44f92c154ac4c4a95), this will cause launch time delays
+[02Jan2025 21:44:50.103] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house_roof is being run through DFU (hash 4b32fb67cbd9defa878d97b8970c5463edeafe21a4b4ed534c576146a26b49e5), this will cause launch time delays
+[02Jan2025 21:44:50.106] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house_side is being run through DFU (hash cbe0e03f05f508f7ba38ad9ddeb2ccff90a800823a3dee4a0ac8c0b9497c81d8), this will cause launch time delays
+[02Jan2025 21:44:52.505] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:44:52.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:44:52.505] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:45:00.062] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:00.062] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:45:00.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Crocodile - Level: 13
+[02Jan2025 21:45:00.062] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:45:00.062] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:45:00.063] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:45:00.063] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:45:00.063] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=117, y=65, z=565}
+[02Jan2025 21:45:00.063] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=117, y=65, z=565}
+[02Jan2025 21:45:00.064] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:45:00.064] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:45:00.064] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:45:01.985] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:01.985] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:07.508] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:07.509] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:45:07.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Zombie - Level: 18
+[02Jan2025 21:45:07.509] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:45:07.509] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[02Jan2025 21:45:07.510] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[02Jan2025 21:45:07.510] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:45:07.510] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=144, y=67, z=596}
+[02Jan2025 21:45:07.510] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=144, y=67, z=596}
+[02Jan2025 21:45:07.511] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:45:08.833] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:08.834] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:16.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 144.5, 67.5, 596.5]
+[02Jan2025 21:45:20.892] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:20.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:45:20.893] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:45:26.964] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:26.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:45:26.965] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:45:35.816] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:35.817] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:45:35.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was impaled by Drowned - Level: 5
+[02Jan2025 21:45:35.817] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:45:35.817] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:45:35.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:45:35.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:45:35.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-74, y=66, z=166}
+[02Jan2025 21:45:35.818] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-74, y=66, z=166}
+[02Jan2025 21:45:35.819] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:45:35.819] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:45:35.819] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:45:41.171] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:45:41.171] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:45:41.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 9
+[02Jan2025 21:45:41.172] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:45:41.172] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[02Jan2025 21:45:41.173] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[02Jan2025 21:45:41.173] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:45:41.173] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=168, y=71, z=604}
+[02Jan2025 21:45:41.173] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=168, y=71, z=604}
+[02Jan2025 21:45:41.174] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:45:42.604] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:42.604] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:45.091] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:45.092] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:46.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 168.5, 70.5, 604.5]
+[02Jan2025 21:46:02.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 113.5, 65.5, 510.5]
+[02Jan2025 21:46:05.716] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:46:05.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:46:05.716] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:46:20.669] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:46:20.670] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:46:20.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 20
+[02Jan2025 21:46:20.670] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:46:20.670] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:46:20.671] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:46:20.671] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:46:20.671] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=108, y=65, z=506}
+[02Jan2025 21:46:20.671] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=108, y=65, z=506}
+[02Jan2025 21:46:20.671] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:46:20.671] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:46:20.671] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:46:22.686] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:22.687] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:32.562] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:46:32.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:46:32.562] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:46:34.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 276.5, 65.5, 520.5]
+[02Jan2025 21:46:38.147] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 576 640 6 3 true
+[02Jan2025 21:46:38.147] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=576, y=67, z=640}
+[02Jan2025 21:46:38.164] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=84, z=637}
+[02Jan2025 21:46:38.165] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=553, y=73, z=627}
+[02Jan2025 21:46:38.165] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=554, y=73, z=618}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=95, z=637}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=551, y=85, z=613}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=556, y=88, z=630}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=106, z=637}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=562, y=96, z=626}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=565, y=96, z=619}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=556, y=107, z=620}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=117, z=637}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=553, y=107, z=627}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=128, z=637}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=562, y=121, z=616}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=567, y=118, z=633}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=555, y=118, z=616}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=556, y=129, z=620}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=560, y=132, z=632}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=139, z=637}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=553, y=129, z=627}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=562, y=140, z=626}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=558, y=143, z=614}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=565, y=140, z=619}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=150, z=638}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=551, y=151, z=613}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=556, y=154, z=630}
+[02Jan2025 21:46:38.179] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=563, y=151, z=630}
+[02Jan2025 21:46:38.179] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=563, y=155, z=629}
+[02Jan2025 21:46:38.184] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=576, y=67, z=640}
+[02Jan2025 21:46:38.186] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=84, z=638}
+[02Jan2025 21:46:38.187] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=95, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=106, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=117, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=128, z=638}
+[02Jan2025 21:46:38.192] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=139, z=638}
+[02Jan2025 21:46:38.192] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=150, z=638}
+[02Jan2025 21:46:38.209] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 276  Position = BlockPos{x=576, y=155, z=640}
+[02Jan2025 21:46:38.209] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 542 61 606
+[02Jan2025 21:46:38.240] [Worker-Main-22/DEBUG] [betterdungeons/]: Small Dungeon at 535 14 823
+[02Jan2025 21:46:47.522] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:46:47.523] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:46:47.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 8
+[02Jan2025 21:46:47.523] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:46:47.523] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:46:47.524] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:46:47.524] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:46:47.524] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-121, y=67, z=191}
+[02Jan2025 21:46:47.524] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-121, y=67, z=191}
+[02Jan2025 21:46:47.524] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:46:47.524] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:46:47.524] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:46:48.879] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:48.879] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:51.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:47:04.356] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ava - Level: 5'/27114, l='ServerLevel[world]', x=299.42, y=64.60, z=520.43] died, message: 'Ava - Level: 5 was slain by Zombie - Level: 7'
+[02Jan2025 21:47:29.645] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:47:29.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:47:29.646] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:48:29.559] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:48:29.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:48:29.560] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:48:30.809] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:48:30.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:48:30.810] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:48:31.002] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 624 288 6 3 false
+[02Jan2025 21:48:31.825] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:48:31.840] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 21:48:40.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Set the time to 1000]
+[02Jan2025 21:48:40.604] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ernie - Level: 5'/27113, l='ServerLevel[world]', x=286.30, y=64.17, z=540.28] died, message: 'Ernie - Level: 5 was shot by Skeleton - Level: 5'
+[02Jan2025 21:48:44.512] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:48:44.512] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:48:44.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 5
+[02Jan2025 21:48:44.513] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:48:44.513] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:48:44.514] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:48:44.514] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:48:44.514] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=296, y=63, z=541}
+[02Jan2025 21:48:44.514] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=296, y=63, z=541}
+[02Jan2025 21:48:44.514] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:48:44.514] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:48:44.514] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:48:45.765] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:48:45.765] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:48:45.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 5
+[02Jan2025 21:48:45.766] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:48:45.766] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[02Jan2025 21:48:45.767] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[02Jan2025 21:48:45.767] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:48:45.767] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=285, y=64, z=545}
+[02Jan2025 21:48:45.767] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=285, y=64, z=545}
+[02Jan2025 21:48:45.767] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:48:45.767] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:48:45.767] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:48:47.267] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:47.267] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:49.359] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:49.360] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:50.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:49:04.242] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Francie - Level: 5'/27139, l='ServerLevel[world]', x=277.83, y=64.10, z=479.77] died, message: 'Francie - Level: 5 was slain by Crocodile - Level: 25'
+[02Jan2025 21:49:37.774] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:49:37.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:49:37.774] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:49:51.440] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Kristie - Level: 5'/25528, l='ServerLevel[world]', x=269.84, y=64.10, z=508.42] died, message: 'Kristie - Level: 5 suffocated in a wall whilst fighting Crocodile - Level: 25'
+[02Jan2025 21:50:05.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Acquire Hardware]
+[02Jan2025 21:50:49.440] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Bettina - Level: 5'/27099, l='ServerLevel[world]', x=243.53, y=63.00, z=497.06] died, message: 'Bettina - Level: 5 was poked to death by a sweet berry bush'
+[02Jan2025 21:50:55.918] [Worker-Main-44/DEBUG] [betterdungeons/]: Small Dungeon at 657 11 503
+[02Jan2025 21:50:55.937] [Worker-Main-22/DEBUG] [betterdungeons/]: Small Dungeon at 657 26 695
+[02Jan2025 21:50:55.938] [Worker-Main-23/DEBUG] [betterdungeons/]: Small Dungeon at 657 37 353
+[02Jan2025 21:50:58.572] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:50:58.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:50:58.573] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:50:58.591] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:50:58.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:50:58.591] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:51:00.363] [Worker-Main-23/DEBUG] [betterdungeons/]: Small Dungeon at 669 21 815
+[02Jan2025 21:51:10.340] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Earlene - Level: 5'/27098, l='ServerLevel[world]', x=293.52, y=64.10, z=503.04] died, message: 'Earlene - Level: 5 was slain by Crocodile - Level: 25'
+[02Jan2025 21:51:13.553] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:51:13.554] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:51:13.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 22
+[02Jan2025 21:51:13.554] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:51:13.555] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[02Jan2025 21:51:13.555] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[02Jan2025 21:51:13.555] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:51:13.555] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=263, y=63, z=491}
+[02Jan2025 21:51:13.556] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=263, y=63, z=491}
+[02Jan2025 21:51:13.556] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:51:13.556] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:51:13.556] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:51:13.556] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:51:13.557] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:51:13.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was poked to death by a sweet berry bush
+[02Jan2025 21:51:13.557] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:51:13.557] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[02Jan2025 21:51:13.557] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[02Jan2025 21:51:13.558] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:51:13.558] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=351, y=64, z=522}
+[02Jan2025 21:51:13.558] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=351, y=64, z=522}
+[02Jan2025 21:51:13.558] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:51:13.558] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:51:13.558] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:51:14.062] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (612 | 49 | 548).
+[02Jan2025 21:51:14.062] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[02Jan2025 21:51:14.062] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 5(0) Rooms
+[02Jan2025 21:51:14.062] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(3) Nodes and 5(0) Rooms
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(7) Nodes and 5(0) Rooms
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[02Jan2025 21:51:14.063] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 7(4) Nodes and 4(0) Rooms
+[02Jan2025 21:51:14.065] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [43, 39] with a total of 258 pieces.
+[02Jan2025 21:51:16.202] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:16.202] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:17.623] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:17.624] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:21.242] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Karleen - Level: 5'/27093, l='ServerLevel[world]', x=266.99, y=63.50, z=492.96] died, message: 'Karleen - Level: 5 was slain by Crocodile - Level: 22'
+[02Jan2025 21:51:29.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Crops of the Wild]
+[02Jan2025 21:51:29.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 359.5, 64.5, 514.5]
+[02Jan2025 21:51:36.148] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[02Jan2025 21:51:36.196] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[02Jan2025 21:51:36.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[02Jan2025 21:51:43.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 32 messages to dispatch.
+[02Jan2025 21:51:43.450] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Origins registries' to 'origins:channel' sequence 0
+[02Jan2025 21:51:43.499] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[02Jan2025 21:51:43.549] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[02Jan2025 21:51:43.601] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[02Jan2025 21:51:43.649] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[02Jan2025 21:51:43.703] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry entity_enchantment:entity_enchantment' to 'fml:handshake' sequence 5
+[02Jan2025 21:51:43.750] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[02Jan2025 21:51:43.798] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[02Jan2025 21:51:43.866] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[02Jan2025 21:51:43.908] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[02Jan2025 21:51:43.950] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[02Jan2025 21:51:44.003] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[02Jan2025 21:51:44.055] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[02Jan2025 21:51:44.105] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[02Jan2025 21:51:44.154] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry structure_gel:biome_dictionary' to 'fml:handshake' sequence 14
+[02Jan2025 21:51:44.200] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[02Jan2025 21:51:44.256] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[02Jan2025 21:51:44.300] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[02Jan2025 21:51:44.359] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[02Jan2025 21:51:44.401] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[02Jan2025 21:51:44.452] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 20
+[02Jan2025 21:51:44.509] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goprone-server.toml' to 'fml:handshake' sequence 21
+[02Jan2025 21:51:44.549] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config biggerstacks-server.toml' to 'fml:handshake' sequence 22
+[02Jan2025 21:51:44.599] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ensorcellation-server.toml' to 'fml:handshake' sequence 23
+[02Jan2025 21:51:44.653] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config /workspaces/server/servidor_minecraft/config/waystones-server.toml' to 'fml:handshake' sequence 24
+[02Jan2025 21:51:44.702] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config entity_enchantment-server.toml' to 'fml:handshake' sequence 25
+[02Jan2025 21:51:44.749] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config armorunlocked-server.toml' to 'fml:handshake' sequence 26
+[02Jan2025 21:51:44.801] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config TimeShallNotPass.toml' to 'fml:handshake' sequence 27
+[02Jan2025 21:51:44.857] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cofh_core-server.toml' to 'fml:handshake' sequence 28
+[02Jan2025 21:51:44.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel origins:channel with index 0
+[02Jan2025 21:51:44.886] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.apace100.origins.networking.packet.AcknowledgeMessage
+[02Jan2025 21:51:44.886] [Netty Epoll Server IO #2/DEBUG] [io.github.apace100.origins.Origins/]: Client successfully received a login packet.
+[02Jan2025 21:51:44.902] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[02Jan2025 21:51:44.902] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[02Jan2025 21:51:44.902] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, secondchanceforge, supermartijn642configlib, denseoresreborn, variablespawnerhardness, opotato, contenttweaker, torohealth, stalwart_dungeons, rubidium, bettercaves, nodami, modernfix, farmersdelightintegrations, yungsapi, angrymobs, maxhealthfix, toolleveling, lootbeams, forgivingvoid, pickupnotifier, biggerstacks, huskspawn, autoleveling, durabilitytooltip, betterendforge, structure_gel, advancementplaques, tenshilib, repurposed_structures, fishingdangers, geode, improvedmounthud, propertymodifier, xaeroarrowfix, sf, questplaques, itemstitchingfix, curios, origins, rotten_piglins, mcwroofs, mutantmore, cloth-config, enhancedai, bigfish, strayspawn, disenchanting, cleanview, bettermineshafts, playerrevive, mowziesmobs, geckolib3, timeshallnotpass, jei, attributefix, pehkui, caelus, shutupexperimentalsettings, mobhealthbar, additional_lights, jeitweaker, memoryleakfix, crafttweaker, forge, offhandcombat, subwild, dsurround, sndctrl, environs, mobeffects, dungeons_arise, minecraft, cofh_core, smoothchunk, mousetweaks, shouldersurfing, enchsort, glowbats, betterfpsdist, majrusz_library, shadowizardlib, autoreglib, globaldataandresourcepacks, entity_enchantment, not_enough_gamerules, fastfurnace, appleskin, puzzleslib, byg, friendlyfire, cosmeticarmorreworked, chunksending, armorunlocked, skyvillages, fast_projectile_fix, philips_ruins1_16_5, healthoverlay, forgivenessmod, incontrol, tomes, effishiency, wonderful_enchantments, insanelib, bowinfinityfix, villagernames, xaeroworldmap, prism, placebo, citadel, alexsmobs, iceandfire, player_mobs, bookshelf, union_upgrade_scrolls, progressivebosses, dragonfight, dummmmmmy, konkrete, equipmentcompare, mcwbridges, farmersdelight, fd_cookbook, snowpig, farmersrespite, haunted_runescape_armor, musicdr, endrem, dungeons_enhanced, villagespawnpoint, goprone, cataclysm, patchouli, overworld_two, extra_keybinds, easypaxellite, naturallychargedcreepers, mobcrossing, collective, betterbiomeblend, dramaticdoors, firespreadtweaks, passiveshield, architectury, ftblibrary, aiimprovements, ageingspawners, firstjoinmessage, undergarden, smallships, bwncr, wings, sky_structures, dreadsteel, configurable_conflicts, pirates_armoury, trashslot, kleiders_custom_renderer, giantspawn, dungeons_mobs, abnormals_core, irregularchef, nethers_delight, ensorcellation, waystones, merchantmarkers, xaerominimap, fabledweaponry, infernalenchantments, artifacts, configured, infernal_origins_extras, dungeoncrawl, specialmobs, lazydfu, esendphantoms, customfov, travelerstitles, castle_dungeons, toofast, twist, selene, ba_bt, enchdesc, swingthroughgrass, enigmaticgraves, creativecore, difficultylock, weaponmaster, defaultworldtype, iceberg, quark, tinychest, fastbench, performant, runicitems, inventoryhud, illagersweararmor, fogoverrides, fancymenu, drippyloadingscreen, slabgen, magma_monsters, ferritecore, nochatlagforge, enhancedcelestials, armorsoundtweak, allarrowsinfinityfix, improvedmobs, valhelsia_core, valhelsia_structures, overloadedarmorbar, loadmyresources]
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'pirates_armoury:pirates_armoury' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dreadsteel:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 29
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'philips_ruins1_16_5:philips_ruins1_16_5' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'toolleveling:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tomes:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cofh_core:general' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'shadowizardlib:network' : Version test of '0.1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'autoreglib:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '1.1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geode:geode' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'entity_enchantment:entity_enchantment' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'extra_keybinds:extra_keybinds' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'haunted_runescape_armor:haunted_runescape_armor' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'origins:channel' : Version test of '0.7.3.3' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'wonderful_enchantments:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'sky_structures:sky_structures' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'twist:twist' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'denseoresreborn:denseoresreborn' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.903] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'infernal_origins_extras:infernal_origins_extras' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'armorunlocked:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'goprone:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'offhandcombat:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_mobs:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Version test of '6.0.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'specialmobs:channel' : Version test of '0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'autoleveling:channel' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'valhelsia_core:channel' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'kleiders_custom_renderer:kleiders_custom_renderer' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmore:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'questplaques:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'rotten_piglins:rotten_piglins' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'union_upgrade_scrolls:union_upgrade_scrolls' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'abnormals_core:net' : Version test of 'AC1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.904] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'wings:net' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'skyvillages:skyvillages' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'magma_monsters:magma_net' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:44.905] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:44.907] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:44.952] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[02Jan2025 21:51:45.002] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 31
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.099] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[02Jan2025 21:51:45.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.100] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[02Jan2025 21:51:45.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.542] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.543] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.545] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[02Jan2025 21:51:45.545] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.545] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.827] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[02Jan2025 21:51:45.827] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.827] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.828] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.831] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[02Jan2025 21:51:45.831] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.831] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.835] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.839] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[02Jan2025 21:51:45.839] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.839] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.839] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[02Jan2025 21:51:45.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[02Jan2025 21:51:45.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[02Jan2025 21:51:45.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[02Jan2025 21:51:45.859] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[02Jan2025 21:51:45.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d7f3e6f
+[02Jan2025 21:51:45.932] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/0:0:0:0:0:0:0:1%0:52884] logged in with entity id 31976 at (271.47240369539264, 63.100000001490116, 522.8475303479311)
+[02Jan2025 21:51:45.934] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@558bcd1d into net.minecraft.network.NetworkManager@5b0cf1dc
+[02Jan2025 21:51:45.936] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 216 classes
+[02Jan2025 21:51:45.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[02Jan2025 21:51:46.070] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:46.071] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:51.903] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:51:51.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:51:51.903] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[02Jan2025 21:52:06.861] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:52:06.861] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:52:06.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 22
+[02Jan2025 21:52:06.861] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[02Jan2025 21:52:06.862] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[02Jan2025 21:52:06.862] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[02Jan2025 21:52:06.862] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[02Jan2025 21:52:06.862] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=265, y=63, z=522}
+[02Jan2025 21:52:06.863] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=265, y=63, z=522}
+[02Jan2025 21:52:06.863] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[02Jan2025 21:52:06.863] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[02Jan2025 21:52:06.863] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:52:08.211] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:52:08.212] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:52:59.088] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Juanita - Level: 5'/25549, l='ServerLevel[world]', x=254.18, y=63.00, z=509.06] died, message: 'Juanita - Level: 5 was poked to death by a sweet berry bush'
+[02Jan2025 21:52:59.190] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[02Jan2025 21:52:59.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:52:59.190] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.

@@ -2501,3 +2501,169 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Jan2025 21:42:44.175] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [02Jan2025 21:42:44.176] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [02Jan2025 21:42:46.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:43:16.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/22910, l='ServerLevel[world]', x=106.33, y=104.06, z=676.88]
+[02Jan2025 21:43:16.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/22910, l='ServerLevel[world]', x=106.33, y=104.06, z=676.88]
+[02Jan2025 21:43:17.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:43:32.516] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:43:32.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was blown up by Creeper - Level: 15
+[02Jan2025 21:43:32.518] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=104, y=96, z=673}
+[02Jan2025 21:43:32.518] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:43:34.195] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:43:34.195] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:43:50.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:44:05.333] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:44:05.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was fireballed by Spitfire Skeleton - Level: 5
+[02Jan2025 21:44:05.334] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-125, y=68, z=188}
+[02Jan2025 21:44:05.334] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:44:11.992] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:44:11.992] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:44:21.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 113.5, 69.5, 516.5]
+[02Jan2025 21:44:24.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:44:45.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:44:50.081] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barako_throne is being run through DFU (hash 5060b47cd573a6a8d5c0d51033162f3e97c822c4c1964511ab8cbcdeab59ad46), this will cause launch time delays
+[02Jan2025 21:44:50.097] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house is being run through DFU (hash 7bdc9a503d818d60f6cb11498be221879e43f4929b6107d44f92c154ac4c4a95), this will cause launch time delays
+[02Jan2025 21:44:50.103] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house_roof is being run through DFU (hash 4b32fb67cbd9defa878d97b8970c5463edeafe21a4b4ed534c576146a26b49e5), this will cause launch time delays
+[02Jan2025 21:44:50.106] [Worker-Main-44/WARN] [ModernFix/]: Structure mowziesmobs:barakoa_house_side is being run through DFU (hash cbe0e03f05f508f7ba38ad9ddeb2ccff90a800823a3dee4a0ac8c0b9497c81d8), this will cause launch time delays
+[02Jan2025 21:44:52.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:45:00.062] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:45:00.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Crocodile - Level: 13
+[02Jan2025 21:45:00.063] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=117, y=65, z=565}
+[02Jan2025 21:45:00.064] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:45:01.985] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:01.985] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:07.509] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:45:07.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Zombie - Level: 18
+[02Jan2025 21:45:07.510] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=144, y=67, z=596}
+[02Jan2025 21:45:07.511] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:45:08.833] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:08.834] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:16.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 144.5, 67.5, 596.5]
+[02Jan2025 21:45:20.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:45:26.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:45:35.817] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:45:35.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was impaled by Drowned - Level: 5
+[02Jan2025 21:45:35.818] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-74, y=66, z=166}
+[02Jan2025 21:45:35.819] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:45:41.171] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:45:41.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 9
+[02Jan2025 21:45:41.173] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=168, y=71, z=604}
+[02Jan2025 21:45:41.174] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:45:42.604] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:42.604] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:45.091] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:45.092] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:45:46.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 168.5, 70.5, 604.5]
+[02Jan2025 21:46:02.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 113.5, 65.5, 510.5]
+[02Jan2025 21:46:05.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:46:20.670] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:46:20.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 20
+[02Jan2025 21:46:20.671] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=108, y=65, z=506}
+[02Jan2025 21:46:20.671] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:46:22.686] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:22.687] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:32.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:46:34.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 276.5, 65.5, 520.5]
+[02Jan2025 21:46:38.147] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=576, y=67, z=640}
+[02Jan2025 21:46:38.164] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=84, z=637}
+[02Jan2025 21:46:38.165] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=553, y=73, z=627}
+[02Jan2025 21:46:38.165] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 67  Position = BlockPos{x=554, y=73, z=618}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=95, z=637}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=551, y=85, z=613}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 84  Position = BlockPos{x=556, y=88, z=630}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=106, z=637}
+[02Jan2025 21:46:38.175] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=562, y=96, z=626}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 95  Position = BlockPos{x=565, y=96, z=619}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=556, y=107, z=620}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=117, z=637}
+[02Jan2025 21:46:38.176] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 106  Position = BlockPos{x=553, y=107, z=627}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=128, z=637}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=562, y=121, z=616}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=567, y=118, z=633}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 117  Position = BlockPos{x=555, y=118, z=616}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=556, y=129, z=620}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=560, y=132, z=632}
+[02Jan2025 21:46:38.177] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=573, y=139, z=637}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 128  Position = BlockPos{x=553, y=129, z=627}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=562, y=140, z=626}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=558, y=143, z=614}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 139  Position = BlockPos{x=565, y=140, z=619}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=150, z=638}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=551, y=151, z=613}
+[02Jan2025 21:46:38.178] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=556, y=154, z=630}
+[02Jan2025 21:46:38.179] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=563, y=151, z=630}
+[02Jan2025 21:46:38.179] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 150  Position = BlockPos{x=563, y=155, z=629}
+[02Jan2025 21:46:38.184] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=576, y=67, z=640}
+[02Jan2025 21:46:38.186] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=84, z=638}
+[02Jan2025 21:46:38.187] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=95, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=106, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=117, z=638}
+[02Jan2025 21:46:38.189] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=128, z=638}
+[02Jan2025 21:46:38.192] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=139, z=638}
+[02Jan2025 21:46:38.192] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 188  Position = BlockPos{x=574, y=150, z=638}
+[02Jan2025 21:46:38.209] [Worker-Main-3/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 276  Position = BlockPos{x=576, y=155, z=640}
+[02Jan2025 21:46:47.523] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:46:47.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 8
+[02Jan2025 21:46:47.524] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-121, y=67, z=191}
+[02Jan2025 21:46:47.524] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:46:48.879] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:48.879] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:46:51.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:47:04.356] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ava - Level: 5'/27114, l='ServerLevel[world]', x=299.42, y=64.60, z=520.43] died, message: 'Ava - Level: 5 was slain by Zombie - Level: 7'
+[02Jan2025 21:47:29.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:48:29.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:48:30.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:48:40.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Set the time to 1000]
+[02Jan2025 21:48:40.604] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ernie - Level: 5'/27113, l='ServerLevel[world]', x=286.30, y=64.17, z=540.28] died, message: 'Ernie - Level: 5 was shot by Skeleton - Level: 5'
+[02Jan2025 21:48:44.512] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:48:44.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 5
+[02Jan2025 21:48:44.514] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=296, y=63, z=541}
+[02Jan2025 21:48:44.514] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:48:45.765] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:48:45.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 5
+[02Jan2025 21:48:45.767] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=285, y=64, z=545}
+[02Jan2025 21:48:45.767] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:48:47.267] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:47.267] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:49.359] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:49.360] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:48:50.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:49:04.242] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Francie - Level: 5'/27139, l='ServerLevel[world]', x=277.83, y=64.10, z=479.77] died, message: 'Francie - Level: 5 was slain by Crocodile - Level: 25'
+[02Jan2025 21:49:37.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:49:51.440] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Kristie - Level: 5'/25528, l='ServerLevel[world]', x=269.84, y=64.10, z=508.42] died, message: 'Kristie - Level: 5 suffocated in a wall whilst fighting Crocodile - Level: 25'
+[02Jan2025 21:50:05.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Acquire Hardware]
+[02Jan2025 21:50:49.440] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Bettina - Level: 5'/27099, l='ServerLevel[world]', x=243.53, y=63.00, z=497.06] died, message: 'Bettina - Level: 5 was poked to death by a sweet berry bush'
+[02Jan2025 21:50:58.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:50:58.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:51:10.340] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Earlene - Level: 5'/27098, l='ServerLevel[world]', x=293.52, y=64.10, z=503.04] died, message: 'Earlene - Level: 5 was slain by Crocodile - Level: 25'
+[02Jan2025 21:51:13.554] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:51:13.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 22
+[02Jan2025 21:51:13.556] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=263, y=63, z=491}
+[02Jan2025 21:51:13.556] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:51:13.557] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:51:13.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was poked to death by a sweet berry bush
+[02Jan2025 21:51:13.558] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=351, y=64, z=522}
+[02Jan2025 21:51:13.558] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:51:16.202] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:16.202] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:17.623] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:17.624] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:21.242] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Karleen - Level: 5'/27093, l='ServerLevel[world]', x=266.99, y=63.50, z=492.96] died, message: 'Karleen - Level: 5 was slain by Crocodile - Level: 22'
+[02Jan2025 21:51:29.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Crops of the Wild]
+[02Jan2025 21:51:29.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 359.5, 64.5, 514.5]
+[02Jan2025 21:51:36.148] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[02Jan2025 21:51:36.196] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[02Jan2025 21:51:36.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[02Jan2025 21:51:45.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d7f3e6f
+[02Jan2025 21:51:45.932] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/0:0:0:0:0:0:0:1%0:52884] logged in with entity id 31976 at (271.47240369539264, 63.100000001490116, 522.8475303479311)
+[02Jan2025 21:51:45.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[02Jan2025 21:51:46.070] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:46.071] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:51:51.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:52:06.861] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:52:06.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Crocodile - Level: 22
+[02Jan2025 21:52:06.863] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=265, y=63, z=522}
+[02Jan2025 21:52:06.863] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:52:08.211] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:52:08.212] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:52:59.088] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Juanita - Level: 5'/25549, l='ServerLevel[world]', x=254.18, y=63.00, z=509.06] died, message: 'Juanita - Level: 5 was poked to death by a sweet berry bush'
+[02Jan2025 21:52:59.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
