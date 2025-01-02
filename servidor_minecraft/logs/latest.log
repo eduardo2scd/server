@@ -2258,3 +2258,109 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [02Jan2025 20:59:06.484] [Worker-Main-1/WARN] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 69c9fb887e40ce7cfd4adc153b4c87209778628a4d2b3a571330f13becbfb28f), this will cause launch time delays
 [02Jan2025 21:00:36.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Crops of the Wild]
 [02Jan2025 21:02:22.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Stone Age]
+[02Jan2025 21:02:55.356] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/4243, l='ServerLevel[world]', x=-79.84, y=5.85, z=386.49]
+[02Jan2025 21:03:55.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Getting an Upgrade]
+[02Jan2025 21:05:43.222] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Timed out
+[02Jan2025 21:05:43.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[02Jan2025 21:05:43.226] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. The following Time Shall Not Pass modules have been toggled on: Daylight Cycle Module
+[02Jan2025 21:05:43.281] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02Jan2025 21:08:33.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@282dfd22
+[02Jan2025 21:08:33.091] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/0:0:0:0:0:0:0:1%0:47720] logged in with entity id 5268 at (-110.5, 65.0, 175.5)
+[02Jan2025 21:08:33.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[02Jan2025 21:08:33.131] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] fr4nnki spawned withers counter was below the set 'Starting Difficulty', Has been increased to match 'Starting Difficulty'
+[02Jan2025 21:08:33.131] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] fr4nnki killed dragons counter was below the set 'Starting Difficulty', Has been increased to match 'Starting Difficulty'
+[02Jan2025 21:08:33.131] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] fr4nnki first spawned. Set First Dragon to 1
+[02Jan2025 21:08:33.165] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. The following Time Shall Not Pass modules have been toggled off: Daylight Cycle Module
+[02Jan2025 21:08:33.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Ice and Fire]
+[02Jan2025 21:09:09.738] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ea8f1c6
+[02Jan2025 21:09:09.753] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/0:0:0:0:0:0:0:1%0:50964] logged in with entity id 5716 at (-84.05014257885526, 71.0, 327.8939475079898)
+[02Jan2025 21:09:09.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[02Jan2025 21:09:09.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[02Jan2025 21:09:09.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[02Jan2025 21:09:09.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[02Jan2025 21:09:25.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:09:37.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Origin: Tank]
+[02Jan2025 21:09:37.781] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player  chose Origin: unionorigins:dragonknight, for layer: origins:origin
+[02Jan2025 21:09:40.360] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:09:40.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Skeleton - Level: 5
+[02Jan2025 21:09:40.370] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-100, y=65, z=313}
+[02Jan2025 21:09:40.371] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:09:47.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6066, l='ServerLevel[world]', x=-108.11, y=69.00, z=192.67]
+[02Jan2025 21:09:47.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/6066, l='ServerLevel[world]', x=-108.11, y=69.00, z=192.67]
+[02Jan2025 21:10:35.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:10:39.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:10:50.805] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:10:50.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Spider - Level: 5
+[02Jan2025 21:10:50.807] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-104, y=70, z=340}
+[02Jan2025 21:10:50.807] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:10:54.805] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:10:54.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 3
+[02Jan2025 21:10:54.807] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-104, y=70, z=341}
+[02Jan2025 21:10:54.807] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:11:15.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:11:26.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:11:30.402] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:11:30.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by ☣ Special Spider - Level: 3
+[02Jan2025 21:11:30.404] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-134, y=65, z=272}
+[02Jan2025 21:11:30.405] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:11:31.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made fr4nnki a server operator
+[02Jan2025 21:11:31.028] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:11:31.028] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:11:40.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[02Jan2025 21:11:41.197] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:11:41.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Zombie - Level: 9
+[02Jan2025 21:11:41.200] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-114, y=67, z=174}
+[02Jan2025 21:11:41.200] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:11:43.480] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:11:43.480] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:12:23.412] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/7521, l='ServerLevel[world]', x=-103.70, y=64.00, z=183.03]
+[02Jan2025 21:12:23.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/7521, l='ServerLevel[world]', x=-103.70, y=64.00, z=183.03]
+[02Jan2025 21:12:34.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:12:36.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:12:43.511] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:12:43.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Haunted Mithril Armor - Level: 8
+[02Jan2025 21:12:43.513] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-114, y=68, z=186}
+[02Jan2025 21:12:43.513] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:12:50.407] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:12:50.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Haunted Mithril Armor - Level: 8
+[02Jan2025 21:12:50.410] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-114, y=68, z=186}
+[02Jan2025 21:12:50.410] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:12:52.079] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:12:52.080] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:12:54.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:13:09.752] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:13:09.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Zombie - Level: 9
+[02Jan2025 21:13:09.755] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-108, y=67, z=182}
+[02Jan2025 21:13:09.755] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:13:15.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:13:47.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:13:47.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed zZzK1TTY]
+[02Jan2025 21:14:02.852] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:14:02.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY fell out of the world
+[02Jan2025 21:14:02.854] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-87, y=61, z=184}
+[02Jan2025 21:14:02.855] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:14:15.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:15:27.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:15:33.033] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:15:33.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Zombie - Level: 8
+[02Jan2025 21:15:33.035] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-57, y=65, z=185}
+[02Jan2025 21:15:33.035] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:15:34.467] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:15:34.468] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:16:44.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[02Jan2025 21:16:59.303] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[02Jan2025 21:16:59.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Haunted Mithril Armor - Level: 8
+[02Jan2025 21:16:59.306] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-4, y=64, z=175}
+[02Jan2025 21:16:59.306] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[02Jan2025 21:18:15.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[02Jan2025 21:19:58.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:20:10.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:20:39.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[02Jan2025 21:20:54.851] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[02Jan2025 21:20:54.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Rabbit - Level: 1
+[02Jan2025 21:20:54.853] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-111, y=70, z=339}
+[02Jan2025 21:20:54.853] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[02Jan2025 21:20:56.388] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@1a19dfa6 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:20:56.388] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@17db82a3 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[02Jan2025 21:21:02.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[02Jan2025 21:21:28.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-78, y=77, z=370} BlockPos{x=-77, y=78, z=370}
