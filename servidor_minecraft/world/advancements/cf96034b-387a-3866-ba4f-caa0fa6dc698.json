@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 21:50:05 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-02 21:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-01-03 20:35:33 +0000"
     },
     "done": true
   },
@@ -659,9 +671,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -890,6 +914,18 @@
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2025-01-02 21:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -1395,6 +1431,7 @@
       "minecraft:taiga_hills": "2025-01-02 21:35:50 +0000",
       "minecraft:desert": "2025-01-02 21:09:53 +0000",
       "minecraft:jungle": "2025-01-02 22:01:02 +0000",
+      "minecraft:bamboo_jungle": "2025-01-03 20:34:07 +0000",
       "minecraft:beach": "2025-01-02 21:08:33 +0000",
       "minecraft:river": "2025-01-02 21:09:41 +0000",
       "minecraft:wooded_mountains": "2025-01-03 20:08:55 +0000",
@@ -1938,6 +1975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-02 21:50:04 +0000"
@@ -1947,6 +1990,12 @@
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 21:32:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -1971,6 +2020,12 @@
   "smallships:recipes/lotr_rotten_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -2809,6 +2864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-01-03 20:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:32:43 +0000"
@@ -2878,6 +2939,12 @@
   "smallships:recipes/envi_willow_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -3055,6 +3122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-01-02 21:39:49 +0000"
@@ -3148,6 +3221,12 @@
   "smallships:recipes/lotr_lebethron_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-03 20:40:17 +0000"
     },
     "done": true
   },
@@ -3253,6 +3332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-01-02 21:22:19 +0000"
@@ -3274,6 +3359,12 @@
   "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
@@ -3310,6 +3401,12 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 20:41:09 +0000"
     },
     "done": true
   },
