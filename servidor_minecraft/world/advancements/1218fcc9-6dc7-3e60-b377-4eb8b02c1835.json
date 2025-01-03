@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -32,6 +38,12 @@
   "smallships:recipes/lotr_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -197,6 +209,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-01-03 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 05:00:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -242,6 +266,12 @@
   "smallships:recipes/lotr_fir_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -293,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-03 04:52:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -335,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -431,6 +479,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-02 21:50:26 +0000"
@@ -485,9 +539,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -530,6 +602,12 @@
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-03 04:47:21 +0000"
     },
     "done": true
   },
@@ -605,9 +683,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -638,6 +728,18 @@
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2025-01-02 20:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -683,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
     "criteria": {
       "has_item": "2025-01-02 21:33:48 +0000"
@@ -716,6 +824,12 @@
   "smallships:recipes/lotr_lairelosse_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 04:45:40 +0000"
     },
     "done": true
   },
@@ -809,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:45:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -830,6 +950,12 @@
   "smallships:recipes/bop_willow_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 04:47:21 +0000"
     },
     "done": true
   },
@@ -860,6 +986,12 @@
   "undergarden:recipes/undergarden_group/smogstem_boat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -953,9 +1085,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-03 04:47:21 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-02 20:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-03 05:00:08 +0000"
     },
     "done": true
   },
@@ -1131,6 +1275,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-03 04:42:51 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1146,6 +1296,12 @@
   "smallships:recipes/lotr_apple_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-03 04:40:28 +0000"
     },
     "done": true
   },
@@ -1179,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-02 20:53:43 +0000"
@@ -1197,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
@@ -1206,6 +1374,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -1290,6 +1464,18 @@
   "smallships:recipes/lotr_fir_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -1389,6 +1575,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1404,6 +1596,12 @@
   "smallships:recipes/envi_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -1456,6 +1654,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-03 05:00:08 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1471,6 +1693,12 @@
   "smallships:recipes/lotr_rotten_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -1495,6 +1723,12 @@
   "smallships:recipes/bop_willow_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -1564,9 +1798,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -1615,6 +1867,12 @@
   "smallships:recipes/lotr_lebethron_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-03 04:56:29 +0000"
     },
     "done": true
   },
@@ -1741,6 +1999,12 @@
   "smallships:recipes/lotr_fir_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -1894,6 +2158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-03 05:00:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1954,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2002,6 +2278,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-03 04:42:51 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/lotr_pine_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2026,6 +2308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-03 04:58:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-02 21:50:26 +0000"
@@ -2035,6 +2323,12 @@
   "smallships:recipes/lotr_cherry_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
+    "criteria": {
+      "has_item": "2025-01-03 04:45:40 +0000"
     },
     "done": true
   },
@@ -2089,6 +2383,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
@@ -2182,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
     "criteria": {
       "has_item": "2025-01-02 20:59:54 +0000"
@@ -2209,6 +2515,18 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
     "criteria": {
       "has_item": "2025-01-02 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -2245,6 +2563,12 @@
   "smallships:recipes/bop_redwood_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
     },
     "done": true
   },
@@ -2296,6 +2620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2311,6 +2641,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-02 21:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -2341,6 +2677,12 @@
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2025-01-02 20:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-01-03 04:34:51 +0000"
     },
     "done": true
   },
@@ -2464,6 +2806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-01-02 21:01:47 +0000"
@@ -2491,6 +2839,12 @@
   "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -2527,6 +2881,12 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:46:22 +0000"
     },
     "done": true
   },
@@ -2605,6 +2965,12 @@
   "smallships:recipes/lotr_cypress_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:45:40 +0000"
     },
     "done": true
   },
