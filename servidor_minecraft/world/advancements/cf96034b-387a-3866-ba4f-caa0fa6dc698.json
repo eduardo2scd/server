@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 20:44:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_cherry_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -803,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 20:48:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_rod": {
     "criteria": {
       "has_planks": "2025-01-02 21:50:05 +0000"
@@ -1046,6 +1058,12 @@
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-03 20:44:47 +0000"
     },
     "done": true
   },
@@ -1598,6 +1616,12 @@
   "smallships:recipes/lotr_rotten_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-01-03 20:48:29 +0000"
     },
     "done": true
   },
