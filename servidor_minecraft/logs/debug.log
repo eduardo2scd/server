@@ -11117,3 +11117,250 @@ java.lang.NullPointerException: null
 [03Jan2025 19:48:46.238] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
 [03Jan2025 19:48:46.242] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
 [03Jan2025 19:48:46.242] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to md70c9f0$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
+[03Jan2025 19:52:52.828] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:52:52.846] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:54:14.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> only the unworthy sleep
+[03Jan2025 19:57:52.874] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:57:52.887] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:57:59.375] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[03Jan2025 19:58:06.253] [Worker-Main-20/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[03Jan2025 19:58:06.255] [Worker-Main-20/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[03Jan2025 19:58:06.295] [Worker-Main-20/DEBUG] [bettercaves/]: CAVE INFORMATION
+[03Jan2025 19:58:06.296] [Worker-Main-20/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[03Jan2025 19:58:06.296] [Worker-Main-20/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[03Jan2025 19:58:06.296] [Worker-Main-20/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[03Jan2025 19:58:06.296] [Worker-Main-20/DEBUG] [bettercaves/]: --> CARVER
+[03Jan2025 19:58:06.297] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[03Jan2025 19:58:06.297] [Worker-Main-20/DEBUG] [bettercaves/]: --> CARVER
+[03Jan2025 19:58:06.297] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[03Jan2025 19:58:06.302] [Worker-Main-20/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[03Jan2025 19:58:06.302] [Worker-Main-20/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[03Jan2025 19:58:06.302] [Worker-Main-20/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[03Jan2025 19:58:06.302] [Worker-Main-20/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[03Jan2025 19:58:06.302] [Worker-Main-20/DEBUG] [bettercaves/]: --> CARVER
+[03Jan2025 19:58:06.303] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[03Jan2025 19:58:06.303] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[03Jan2025 19:58:06.303] [Worker-Main-20/DEBUG] [bettercaves/]: --> CARVER
+[03Jan2025 19:58:06.303] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[03Jan2025 19:58:06.303] [Worker-Main-20/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[03Jan2025 19:58:06.308] [Worker-Main-20/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[03Jan2025 19:58:06.308] [Worker-Main-20/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[03Jan2025 19:58:06.311] [Worker-Main-20/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -4054188033401887316 IN minecraft:overworld
+[03Jan2025 19:58:06.406] [Worker-Main-13/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[03Jan2025 19:58:06.417] [Worker-Main-13/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[03Jan2025 19:58:06.428] [Worker-Main-13/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[03Jan2025 19:58:06.704] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[03Jan2025 19:58:29.379] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id specialmobs:blindingenderman
+[03Jan2025 19:58:32.316] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 19:58:32.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[03Jan2025 19:58:32.318] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 19:58:47.310] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 19:58:47.312] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[03Jan2025 19:58:47.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY fell from a high place
+[03Jan2025 19:58:47.314] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[03Jan2025 19:58:47.315] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[03Jan2025 19:58:47.318] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[03Jan2025 19:58:47.318] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[03Jan2025 19:58:47.319] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=188, y=47, z=422}
+[03Jan2025 19:58:47.320] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=188, y=47, z=422}
+[03Jan2025 19:58:47.320] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03Jan2025 19:58:47.320] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[03Jan2025 19:58:47.320] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[03Jan2025 19:58:51.013] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 19:58:51.013] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 19:58:51.103] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.105] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.106] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.107] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.107] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.108] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.109] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.137] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.145] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.148] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.165] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.166] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.169] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.170] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.171] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.174] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:58:51.178] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.553] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.555] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.563] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.564] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.638] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:00.641] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 19:59:08.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[03Jan2025 19:59:48.568] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id specialmobs:enderman
+[03Jan2025 20:00:10.805] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.inventory.InventoryHelper
+[03Jan2025 20:00:51.073] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:00:51.077] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:00:55.215] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:00:55.216] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:00:55.219] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:00.418] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:00.419] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:00.420] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:03.963] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:03.968] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:03.969] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:03.972] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:07.910] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:07.911] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:07.912] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:07.913] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:10.347] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:10.348] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:10.349] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:10.350] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:10.353] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.966] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.967] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.969] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.969] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.969] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.971] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.972] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.973] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.974] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.974] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.975] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.976] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.977] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.978] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.978] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.978] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.979] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.979] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.979] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.980] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.980] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.980] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.981] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.981] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.981] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.982] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.982] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.982] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.983] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.983] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.984] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.984] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.984] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.985] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.986] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.986] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.986] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.987] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.987] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.987] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.988] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.988] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.989] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.989] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.989] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.990] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.990] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.990] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.991] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.991] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.991] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.992] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.992] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.993] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.993] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.994] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.994] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.994] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.995] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.995] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.996] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.996] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.997] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.997] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.998] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.998] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.998] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.999] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:12.999] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.000] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.000] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.001] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.001] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.002] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.002] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.003] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.003] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.004] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.004] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.005] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.005] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.034] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.034] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.036] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.036] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.037] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.037] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.037] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.038] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.038] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.038] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.039] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.039] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.039] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.039] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.040] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.040] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.040] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.041] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.226] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.226] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.228] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.229] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.229] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.230] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.230] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.230] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.231] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.231] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.232] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.232] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.232] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.319] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.319] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.320] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.375] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.376] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.421] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.422] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.423] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:13.424] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:15.273] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:16.269] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:16.272] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:16.287] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:16.288] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:01:17.298] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-572 | 49 | 628).
+[03Jan2025 20:01:17.301] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03Jan2025 20:01:17.306] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[03Jan2025 20:01:17.307] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03Jan2025 20:01:17.307] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[03Jan2025 20:01:17.308] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03Jan2025 20:01:17.308] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 3(9) Nodes and 5(0) Rooms
+[03Jan2025 20:01:17.308] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03Jan2025 20:01:17.308] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 6(0) Rooms
+[03Jan2025 20:01:17.309] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03Jan2025 20:01:17.309] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[03Jan2025 20:01:17.320] [Worker-Main-25/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-31, 44] with a total of 261 pieces.
+[03Jan2025 20:01:22.413] [Worker-Main-25/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -528 592 4 5 true
+[03Jan2025 20:01:33.755] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 20:01:33.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 20:01:33.755] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 20:02:12.407] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 20:02:12.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[03Jan2025 20:02:12.407] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
