@@ -13656,3 +13656,83 @@ java.lang.NullPointerException: null
 [03Jan2025 21:02:53.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Jan2025 21:02:53.378] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03Jan2025 21:03:21.435] [Worker-Main-60/DEBUG] [betterdungeons/]: Spider Dungeon at 1009 49 961
+[03Jan2025 21:04:54.497] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@602700e4
+[03Jan2025 21:05:16.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:07:47.212] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:07:47.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 21:07:47.212] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 21:07:52.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:07:53.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=884, y=14, z=687} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[03Jan2025 21:07:53.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=884, y=14, z=687}
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=880, y=14, z=695} but found not block entity block Block{denseoresreborn:dense_iron_ore} at location
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{denseoresreborn:dense_iron_ore} but failed at location BlockPos{x=880, y=14, z=695}
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=890, y=21, z=703} but found not block entity block Block{minecraft:stone} at location
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=890, y=21, z=703}
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=880, y=14, z=691} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[03Jan2025 21:07:53.013] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=880, y=14, z=691}
+[03Jan2025 21:07:53.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=885, y=14, z=702} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[03Jan2025 21:07:53.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=885, y=14, z=702}
+[03Jan2025 21:07:53.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=881, y=21, z=710} but found not block entity block Block{minecraft:stone} at location
+[03Jan2025 21:07:53.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=881, y=21, z=710}
+[03Jan2025 21:07:53.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=885, y=17, z=707} but found not block entity block Block{subwild:mossy_stone} at location
+[03Jan2025 21:07:53.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{subwild:mossy_stone} but failed at location BlockPos{x=885, y=17, z=707}
+[03Jan2025 21:07:53.078] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:07:53.090] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:09:23.461] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:09:23.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 21:09:23.462] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 21:09:38.419] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:09:38.419] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[03Jan2025 21:09:38.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by ☣ Special Muncher - Level: 23
+[03Jan2025 21:09:38.419] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[03Jan2025 21:09:38.420] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[03Jan2025 21:09:38.420] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[03Jan2025 21:09:38.420] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[03Jan2025 21:09:38.421] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=646, y=22, z=847}
+[03Jan2025 21:09:38.421] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=646, y=22, z=847}
+[03Jan2025 21:09:38.421] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03Jan2025 21:09:38.421] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[03Jan2025 21:09:38.421] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[03Jan2025 21:09:41.227] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:09:41.228] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:09:43.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:11:44.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:11:44.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 21:11:44.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 21:11:52.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:11:59.463] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:11:59.463] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[03Jan2025 21:11:59.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Mimic - Level: 89
+[03Jan2025 21:11:59.464] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[03Jan2025 21:11:59.464] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[03Jan2025 21:11:59.464] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[03Jan2025 21:11:59.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[03Jan2025 21:11:59.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=647, y=12, z=830}
+[03Jan2025 21:11:59.465] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=647, y=12, z=830}
+[03Jan2025 21:11:59.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03Jan2025 21:11:59.465] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[03Jan2025 21:11:59.465] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[03Jan2025 21:12:00.830] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:12:00.830] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:12:05.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:12:27.820] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:12:27.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 21:12:27.820] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[03Jan2025 21:12:42.817] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[03Jan2025 21:12:42.817] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[03Jan2025 21:12:42.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by Mimic - Level: 89
+[03Jan2025 21:12:42.817] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[03Jan2025 21:12:42.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for fr4nnki
+[03Jan2025 21:12:42.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for fr4nnki
+[03Jan2025 21:12:42.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[03Jan2025 21:12:42.818] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for fr4nnki at BlockPos{x=648, y=23, z=843}
+[03Jan2025 21:12:42.818] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=648, y=23, z=843}
+[03Jan2025 21:12:42.819] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='fr4nnki', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[03Jan2025 21:12:42.819] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[03Jan2025 21:12:42.819] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[03Jan2025 21:12:45.687] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:12:45.687] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 21:12:48.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 21:12:52.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:12:53.018] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:13:21.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
