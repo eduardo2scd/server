@@ -2081,3 +2081,81 @@ java.lang.NullPointerException: null
 [03Jan2025 20:17:53.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [03Jan2025 20:17:59.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Not Today, Thank You]
 [03Jan2025 20:18:30.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Not Today, Thank You]
+[03Jan2025 20:23:26.249] [Worker-Main-60/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
+[03Jan2025 20:23:26.251] [Worker-Main-60/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_2
+[03Jan2025 20:23:31.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 20:23:35.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[03Jan2025 20:23:46.412] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[03Jan2025 20:23:46.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was slain by ☠ Barako, the Sun Chief - Level: 5063 Boss
+[03Jan2025 20:23:46.414] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=476, y=68, z=518}
+[03Jan2025 20:23:46.414] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[03Jan2025 20:23:50.212] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[03Jan2025 20:23:50.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was burnt to a crisp whilst fighting ☠ Barako, the Sun Chief - Level: 5063 Boss
+[03Jan2025 20:23:50.214] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=480, y=69, z=515}
+[03Jan2025 20:23:50.214] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[03Jan2025 20:23:53.863] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:23:53.863] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:24:08.228] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:24:08.228] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:24:19.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[03Jan2025 20:24:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[03Jan2025 20:24:37.067] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[03Jan2025 20:24:37.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY died
+[03Jan2025 20:24:37.068] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=478, y=68, z=516}
+[03Jan2025 20:24:37.068] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[03Jan2025 20:24:38.952] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5bf2c092 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:24:38.952] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@70d582b (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[03Jan2025 20:24:41.621] [Worker-Main-60/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
+[03Jan2025 20:24:43.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[03Jan2025 20:24:46.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[03Jan2025 20:27:26.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[03Jan2025 20:27:29.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[03Jan2025 20:28:42.034] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:42.038] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:42.039] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:42.042] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[03Jan2025 20:28:42.049] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[03Jan2025 20:28:42.055] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_redstone
+[03Jan2025 20:28:42.056] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[03Jan2025 20:28:42.060] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_plain
+[03Jan2025 20:28:42.063] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[03Jan2025 20:28:42.065] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_plain
+[03Jan2025 20:28:42.070] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_trapped
+[03Jan2025 20:28:42.074] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[03Jan2025 20:28:42.075] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_plain
+[03Jan2025 20:28:42.077] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[03Jan2025 20:28:42.078] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[03Jan2025 20:28:42.082] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_plain
+[03Jan2025 20:28:42.086] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_plain
+[03Jan2025 20:28:42.091] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[03Jan2025 20:28:42.096] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[03Jan2025 20:28:42.099] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_library
+[03Jan2025 20:28:42.101] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[03Jan2025 20:28:42.102] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_bush
+[03Jan2025 20:28:42.104] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_cobweb
+[03Jan2025 20:28:42.105] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[03Jan2025 20:28:42.107] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_plain
+[03Jan2025 20:28:42.108] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_cobweb
+[03Jan2025 20:28:42.111] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[03Jan2025 20:28:42.114] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[03Jan2025 20:28:42.116] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_plain
+[03Jan2025 20:28:42.126] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:42.127] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:42.127] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.139] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.139] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.141] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.236] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.236] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.236] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.236] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.276] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.276] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.276] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.277] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:28:43.277] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: skyvillages:skyvillage
+[03Jan2025 20:29:16.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Herc was on a Roll!]
+[03Jan2025 20:30:12.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Iron Maiden]
+[03Jan2025 20:30:13.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Iron Maiden]
+[03Jan2025 20:32:21.186] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/18339, l='ServerLevel[world]', x=583.64, y=45.00, z=735.30]
+[03Jan2025 20:32:21.186] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/18339, l='ServerLevel[world]', x=583.64, y=45.00, z=735.30]

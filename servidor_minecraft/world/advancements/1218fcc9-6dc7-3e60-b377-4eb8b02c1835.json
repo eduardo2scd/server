@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-01-03 20:30:13 +0000"
+    },
+    "done": true
+  },
   "mutantmore:mutantmore/root": {
     "criteria": {
       "crafting_table": "2025-01-02 21:01:53 +0000"
@@ -947,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-01-03 20:32:32 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -980,6 +992,12 @@
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-03 20:17:59 +0000"
     },
     "done": true
   },
@@ -1548,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-03 20:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
@@ -1569,6 +1593,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-03 20:30:52 +0000"
     },
     "done": true
   },
