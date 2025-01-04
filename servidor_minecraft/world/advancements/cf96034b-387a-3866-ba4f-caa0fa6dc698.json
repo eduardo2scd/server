@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_dhow": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -647,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-04 04:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-02 21:12:25 +0000"
@@ -692,6 +704,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 04:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
     },
     "done": true
   },
@@ -1888,9 +1906,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-02 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
     },
     "done": true
   },
@@ -1975,6 +2005,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-02 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
     },
     "done": true
   },
@@ -2131,6 +2167,12 @@
   "smallships:recipes/lotr_beech_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/red_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-04 04:14:11 +0000"
     },
     "done": true
   },
@@ -2628,6 +2670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-02 21:22:26 +0000"
@@ -2709,6 +2757,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-02 21:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
     },
     "done": true
   },
@@ -2931,6 +2985,12 @@
   "smallships:recipes/bop_redwood_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-04 04:14:11 +0000"
     },
     "done": true
   },
@@ -3265,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -3298,6 +3364,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:32:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_red_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-04 04:14:11 +0000"
     },
     "done": true
   },
@@ -3703,6 +3775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -3856,6 +3934,18 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-04 04:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-04 04:14:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:14:12 +0000"
     },
     "done": true
   },

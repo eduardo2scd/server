@@ -1858,3 +1858,26 @@ java.lang.NullPointerException: null
 [04Jan2025 04:06:28.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -217.5, 123.5, 370.5]
 [04Jan2025 04:06:46.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
 [04Jan2025 04:07:59.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:09:24.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:09:49.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 04:09:54.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:09:57.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:10:08.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 04:10:15.742] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[04Jan2025 04:10:15.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki fell from a high place
+[04Jan2025 04:10:15.745] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-216, y=70, z=385}
+[04Jan2025 04:10:15.745] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[04Jan2025 04:10:17.139] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:10:17.140] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:10:27.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:17:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 04:17:33.841] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[04Jan2025 04:17:33.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was shot by Skeleton - Level: 25
+[04Jan2025 04:17:33.844] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-214, y=139, z=370}
+[04Jan2025 04:17:33.844] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[04Jan2025 04:17:35.381] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:17:35.382] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:17:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -213.5, 139.5, 370.5]
+[04Jan2025 04:18:17.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:18:30.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 414.5, 64.5, 557.5]
+[04Jan2025 04:18:40.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 415.5, 64.5, 558.5]
