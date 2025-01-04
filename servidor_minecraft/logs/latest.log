@@ -1881,3 +1881,21 @@ java.lang.NullPointerException: null
 [04Jan2025 04:18:17.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [04Jan2025 04:18:30.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 414.5, 64.5, 557.5]
 [04Jan2025 04:18:40.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 415.5, 64.5, 558.5]
+[04Jan2025 04:21:04.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Jan2025 04:21:04.776] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[04Jan2025 04:21:04.777] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[04Jan2025 04:21:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 04:21:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 04:21:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 04:21:04.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 04:21:06.451] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 04:21:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 04:21:06.452] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 04:21:06.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 04:21:06.453] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 04:21:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[04Jan2025 04:21:06.454] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[04Jan2025 04:21:06.500] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 04:21:06.510] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 04:21:06.510] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 04:21:06.511] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved

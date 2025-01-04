@@ -11832,3 +11832,35 @@ java.lang.NullPointerException: null
 [04Jan2025 04:18:33.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [04Jan2025 04:18:33.657] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [04Jan2025 04:18:40.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 415.5, 64.5, 558.5]
+[04Jan2025 04:21:04.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Jan2025 04:21:04.776] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[04Jan2025 04:21:04.777] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. No Time Shall Not Pass modules have been toggled off
+[04Jan2025 04:21:04.778] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[04Jan2025 04:21:04.780] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 1218fcc9-6dc7-3e60-b377-4eb8b02c1835
+[04Jan2025 04:21:04.780] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: cf96034b-387a-3866-ba4f-caa0fa6dc698
+[04Jan2025 04:21:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 04:21:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 04:21:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 04:21:04.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 04:21:06.451] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 04:21:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 04:21:06.452] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 04:21:06.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 04:21:06.453] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 04:21:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[04Jan2025 04:21:06.454] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[04Jan2025 04:21:06.454] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:21:06.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 04:21:06.494] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[04Jan2025 04:21:06.500] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 04:21:06.510] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[04Jan2025 04:21:06.510] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 04:21:06.510] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[04Jan2025 04:21:06.510] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 04:21:06.511] [Server thread/DEBUG] [bettercaves/]: UNLOADING WORLD
+[04Jan2025 04:21:06.511] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[04Jan2025 04:21:06.514] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[04Jan2025 04:21:06.514] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04Jan2025 04:21:06.514] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file biggerstacks-server.toml changed, sending notifies
+[04Jan2025 04:21:06.515] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file biggerstacks-server.toml changed, sending notifies
+[04Jan2025 04:21:06.516] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/server/servidor_minecraft/config/waystones-server.toml changed, sending notifies
