@@ -1816,3 +1816,35 @@ java.lang.NullPointerException: null
 [04Jan2025 03:46:12.698] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=534} BlockPos{x=428, y=65, z=534}
 [04Jan2025 03:46:13.122] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=532} BlockPos{x=425, y=65, z=532}
 [04Jan2025 03:46:13.197] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=532} BlockPos{x=425, y=65, z=532}
+[04Jan2025 03:49:10.247] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[04Jan2025 03:49:10.249] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[04Jan2025 03:49:10.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[04Jan2025 03:49:10.291] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[04Jan2025 03:49:22.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e096fba
+[04Jan2025 03:49:22.359] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/0:0:0:0:0:0:0:1%0:60868] logged in with entity id 14017 at (-4.870413291875467, 79.25220334025373, 502.4504530052475)
+[04Jan2025 03:49:22.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[04Jan2025 03:49:22.467] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:49:22.467] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:49:56.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 03:51:22.543] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Timed out
+[04Jan2025 03:51:22.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[04Jan2025 03:51:26.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Timed out
+[04Jan2025 03:51:26.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[04Jan2025 03:51:26.486] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. The following Time Shall Not Pass modules have been toggled on: Daylight Cycle Module
+[04Jan2025 03:52:57.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5647e89a
+[04Jan2025 03:52:57.249] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/0:0:0:0:0:0:0:1%0:57430] logged in with entity id 15434 at (-170.17874976282067, 72.0, 379.86791393502847)
+[04Jan2025 03:52:57.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[04Jan2025 03:52:57.283] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. The following Time Shall Not Pass modules have been toggled off: Daylight Cycle Module
+[04Jan2025 03:52:57.338] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:52:57.338] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:53:09.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 414.5, 64.5, 557.5]
+[04Jan2025 03:53:11.252] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[04Jan2025 03:53:35.661] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65663a4b
+[04Jan2025 03:53:35.669] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/0:0:0:0:0:0:0:1%0:39494] logged in with entity id 16030 at (-196.96661301870918, 69.0, 376.0567114804065)
+[04Jan2025 03:53:35.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[04Jan2025 03:53:35.783] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:53:35.784] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 03:54:25.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 03:56:08.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Monster Hunter]
+[04Jan2025 03:56:54.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[04Jan2025 03:56:56.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Monster Hunter]
