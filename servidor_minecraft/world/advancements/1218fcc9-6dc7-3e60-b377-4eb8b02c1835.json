@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-04 04:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
@@ -763,6 +769,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 04:01:10 +0000",
       "minecraft:spider": "2025-01-04 03:56:56 +0000"
     },
     "done": false
@@ -1187,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 04:01:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1244,6 +1257,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-04 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-04 03:59:25 +0000"
     },
     "done": true
   },
@@ -1827,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-04 04:01:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-01-02 21:54:19 +0000"
@@ -1992,6 +2017,12 @@
   "smallships:recipes/lotr_beech_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
+    "criteria": {
+      "has_item": "2025-01-04 03:59:25 +0000"
     },
     "done": true
   },
@@ -3349,6 +3380,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-01-02 22:09:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
+    "criteria": {
+      "has_item": "2025-01-04 03:59:25 +0000"
     },
     "done": true
   },

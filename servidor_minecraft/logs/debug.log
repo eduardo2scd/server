@@ -11755,3 +11755,29 @@ java.lang.NullPointerException: null
 [04Jan2025 03:56:56.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Monster Hunter]
 [04Jan2025 03:58:33.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [04Jan2025 03:58:33.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 04:00:36.577] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@137cc105
+[04Jan2025 04:00:36.577] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[04Jan2025 04:03:33.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:03:33.587] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 04:05:33.443] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[04Jan2025 04:05:33.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[04Jan2025 04:05:33.443] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
+[04Jan2025 04:05:48.397] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[04Jan2025 04:05:48.398] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[04Jan2025 04:05:48.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was shot by Pillager - Level: 14
+[04Jan2025 04:05:48.400] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: "Dropping" Player Loot
+[04Jan2025 04:05:48.401] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Caching modded handlers for zZzK1TTY
+[04Jan2025 04:05:48.404] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Populating grave for zZzK1TTY
+[04Jan2025 04:05:48.405] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Creating Grave Entity
+[04Jan2025 04:05:48.405] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Attempting to spawn grave for zZzK1TTY at BlockPos{x=-218, y=123, z=370}
+[04Jan2025 04:05:48.405] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=-218, y=123, z=370}
+[04Jan2025 04:05:48.406] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Entries reached max values for TextComponent{text='zZzK1TTY', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[04Jan2025 04:05:48.406] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Removing oldest entry
+[04Jan2025 04:05:48.406] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[04Jan2025 04:05:52.037] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:05:52.038] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 04:06:28.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -217.5, 123.5, 370.5]
+[04Jan2025 04:06:46.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[04Jan2025 04:07:59.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 04:08:33.590] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 04:08:33.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
