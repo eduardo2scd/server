@@ -11063,3 +11063,11 @@ java.lang.NullPointerException: null
 [04Jan2025 03:07:29.965] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
 [04Jan2025 03:07:29.969] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
 [04Jan2025 03:07:29.970] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to md04d628$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
+[04Jan2025 03:08:33.682] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:08:33.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:13:33.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:13:33.638] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:14:36.771] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2bc30ec1
+[04Jan2025 03:15:32.364] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Player has died; Caching dropped items.
+[04Jan2025 03:15:32.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 03:15:32.366] [Server thread/DEBUG] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Death was cancelled; Removing item cache.
