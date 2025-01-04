@@ -11056,3 +11056,10 @@ java.lang.NullPointerException: null
 [04Jan2025 02:56:19.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
 [04Jan2025 02:56:19.708] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4294f35d (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [04Jan2025 02:56:19.709] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[04Jan2025 02:58:33.712] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:58:33.726] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:03:33.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:03:33.645] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Jan2025 03:07:29.965] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[04Jan2025 03:07:29.969] [Server thread/DEBUG] [mixin/]: Mixing common.entity.MixinPiglinTasks from byg.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[04Jan2025 03:07:29.970] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$static$0(Lit/unimi/dsi/fastutil/objects/Reference2ReferenceOpenHashMap;)V to md04d628$lambda$static$0$0 in byg.mixins.json:common.entity.MixinPiglinTasks
