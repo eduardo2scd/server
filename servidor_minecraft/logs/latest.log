@@ -1797,3 +1797,22 @@ java.lang.NullPointerException: null
 [04Jan2025 03:36:26.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
 [04Jan2025 03:36:51.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to 414.5, 64.5, 557.5]
 [04Jan2025 03:36:55.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[04Jan2025 03:39:14.505] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@11ccf317
+[04Jan2025 03:39:16.301] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@11ccf317
+[04Jan2025 03:39:22.150] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@14ec6f9e
+[04Jan2025 03:39:24.152] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@14ec6f9e
+[04Jan2025 03:39:34.172] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2bc30ec1
+[04Jan2025 03:40:03.152] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2bc30ec1
+[04Jan2025 03:43:39.848] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@5e5426f9
+[04Jan2025 03:46:04.047] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=425, y=64, z=549} BlockPos{x=425, y=63, z=550}
+[04Jan2025 03:46:04.495] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=423, y=64, z=547} BlockPos{x=424, y=63, z=547}
+[04Jan2025 03:46:04.517] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=423, y=64, z=548} BlockPos{x=424, y=63, z=547}
+[04Jan2025 03:46:09.195] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=428, y=66, z=539} BlockPos{x=428, y=65, z=539}
+[04Jan2025 03:46:09.218] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=539} BlockPos{x=428, y=65, z=539}
+[04Jan2025 03:46:09.896] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=537} BlockPos{x=426, y=65, z=537}
+[04Jan2025 03:46:10.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=430, y=66, z=536} BlockPos{x=431, y=65, z=536}
+[04Jan2025 03:46:11.297] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=432, y=66, z=533} BlockPos{x=431, y=65, z=534}
+[04Jan2025 03:46:11.824] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=431, y=66, z=531} BlockPos{x=431, y=65, z=531}
+[04Jan2025 03:46:12.698] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=534} BlockPos{x=428, y=65, z=534}
+[04Jan2025 03:46:13.122] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=532} BlockPos{x=425, y=65, z=532}
+[04Jan2025 03:46:13.197] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=427, y=66, z=532} BlockPos{x=425, y=65, z=532}
