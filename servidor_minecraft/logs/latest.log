@@ -1790,3 +1790,6 @@ java.lang.NullPointerException: null
 [04Jan2025 02:56:19.709] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5e2adea0 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [04Jan2025 03:14:36.771] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2bc30ec1
 [04Jan2025 03:15:32.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 03:18:31.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[04Jan2025 03:18:37.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[04Jan2025 03:26:59.601] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2bc30ec1
